@@ -1,0 +1,1 @@
+require 'patches/issue_query_patch'
