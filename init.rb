@@ -8,7 +8,7 @@ Redmine::Plugin.register :redmine_agile_ke do
   description 'Extends Redmine Agile functionality'
   version '0.0.1'
   url ''
-  author_url 'http://kalkomey.com'
+  author_url 'https://kalkomey.com'
 
   requires_redmine :version_or_higher => '2.6'
 end
